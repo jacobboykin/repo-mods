@@ -1,0 +1,9 @@
+{
+  "name": "OopsAllHotdogs",
+  "version_number": "0.1.1",
+  "website_url": "",
+  "description": "Attempts to replace all enemy models with a hotdog",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
